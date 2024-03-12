@@ -1,0 +1,41 @@
+.form{
+
+        width:  20%;
+        margin: 0 auto;
+        border-radius: 13px;
+        border: 1px solid purple;
+        height: 465px;
+        background-image: linear-gradient(to bottom, black, purple);
+        box-shadow: ;
+}
+
+.form form{
+
+
+    display: flex;
+    
+    flex-direction: column;
+
+    width:80% ;
+    text-align: start;
+    margin: 0 auto;
+    justify-content: center;
+    height: 80%;
+}
+
+.icone-avatar{
+
+    width: 100%;
+    text-align: center;
+}
+
+
+.icone-avatar svg{
+
+    width: 54px;
+    height: 54px;
+    text-align: center;
+
+    
+
+}
